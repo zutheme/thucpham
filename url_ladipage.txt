@@ -1,0 +1,15 @@
+1700	Truy Cập Web Tickmedical.vn	Sửa	Xóa
+1701	Truy câp dieutridauthankinhtoa.tickmedical.vn	Sửa	Xóa
+1702	Truy cập dieutriviemkhopgoi.tickmedical.vn	Sửa	Xóa
+1703	Truy cập thoatvidiadiem.tickmedical.vn/	Sửa	Xóa
+1704	Truy cập thoatvidiadem.dieutrixuongkhop.org/	Sửa	Xóa
+1705	Truy cập daucovaigay.tickmedical.vn/	Sửa	Xóa
+1706	Truy cập dieutrihoichungongcotay.tickmedical.vn/	Sửa	Xóa
+1707	Truy cập dieutrihoichungongcotay.dieutrixuongkhop.org/	Sửa	Xóa
+1708	Truy cập dieutrigaicotsong.tickmedical.vn/	Sửa	Xóa
+1709	Truy cập dieutrithoaihoacotsong.tickmedical.vn/	Sửa	Xóa
+1710	Truy Cập dieutritebichantay.tickmedical.vn/	Sửa	Xóa
+1711	Truy Cập chudaunhucxuongkhopdochoithethao.tickmedical.vn/	Sửa	Xóa
+1712	Truy Cập chuadaunhucxuongkhopsausinh.tickmedical.vn/	Sửa	Xóa
+1713	Truy Cập xuongkhopdeodaichangngaibutpha.dieutrixuongkhop.org/	Sửa	Xóa
+1714	Truy Cập uudai79kdieutritebichantay.dieutrixuongkhop.org/	Sửa	Xóa

@@ -1,0 +1,104 @@
+<?php use \App\Http\Controllers\Helper\HelperController; ?>
+<!--breadcrumbs-inner-part start-->
+<div class="breadcrumbs-inner-part img6">
+    <div class="container">
+        <div class="breadcrumbs-inner-bread text-center">
+            <h1 class="title">{{ $title }}</h1>
+            <?php $curent_idcategory = 0;
+				if(isset($cate_selected)){
+				$curent_idcategory = $cate_selected[0]['idcategory'];
+			} ?>
+            <ul class="breadcrumbs-trial">
+                <?php HelperController::breadcrumbpost($rs_cat_product,$curent_idcategory,'breadcrumbs-trial',0); ?>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--breadcrumbs-inner-part start-->
+ <!--Blog start-->
+<div class="rs-blog-inner pt-100 pb-100 md-pt-80 md-pb-80">
+   <div class="container">
+       <div class="row">
+          <div class="col-lg-8">
+          	 @if(isset($rs_lpro))
+				@foreach($rs_lpro as $row)
+				 <div class="blog-item mb-70 md-mb-40">
+                     <div class="blog-img">
+                          <a href="{{ url('/') }}/{{ $row['slug'] }}"><img src="{{ asset( $row['urlfile'] ) }}" alt="{{ $row['namepro'] }}"></a>
+                      </div>
+                      <div class="full-blog-content">
+                          <div class="blog-all-titles">
+                              {{-- <div class="get-date">
+                                  <div class="blog-date">
+                                      <span class="date">19</span>
+                                      <span class="month">nov</span>
+                                  </div>
+                              </div> --}}
+                              <div class="title-wrap">
+                                    <h3 class="blog-title">
+                                        <a href="{{ url('/') }}/{{ $row['slug'] }}">{{ $row['namepro'] }}</a>
+                                    </h3>
+                                 <div class="blog-meta">
+                                    <ul>
+                                        <li>
+                                            <div class="categore-name">
+                                               <a href="{{ url('/') }}/{{ $row['slugcate'] }}">{{ $row['namecat'] }}</a> 
+                                            </div>
+                                        </li>
+                                        <li> <div class="author">{{ $row['count'] }}</div></li>
+                                        {{-- <li>
+                                            <div class="tag-line">
+                                                tag:
+                                                <a href="#">Business,</a>
+                                                <a href="#">Corporate</a>
+                                            </div>  
+                                        </li> --}}
+                                    </ul> 
+                                 </div> 
+                              </div>
+                          </div>
+                          <div class="blog-desc pb-15">
+                              <p>
+                                 <?php $content = $row['description'];
+									 echo HelperController::get_the_excerpt_max(200, $content); ?> 
+                              </p>
+                          </div>
+                          <div class="blog-button">
+                              <a href="{{ url('/') }}/{{ $row['slug'] }}">Đọc thêm</a>
+                          </div>
+                      </div>
+                  </div> 
+				@endforeach
+			<?php $countpage = $rs_lpro[0]['count_page']; ?>
+				@if($countpage > 1)
+				<?php $curent_page = Request::segment(3); 
+					if(empty($curent_page)) $curent_page =1; ?>
+				<div class="page-nav td-pb-padding-side">
+					@for($i=1; $i < ($countpage + 1); $i++)
+					<?php  $curent_class = ($curent_page == $i) ? '<span class="current">'.$i.'</span>':''; ?>
+						@if (isset($curent_class) and !empty($curent_class))
+							{!! $curent_class !!}
+						@elseif($i == $countpage)
+							<a href="{{ url('/') }}/{{ $curent_slug }}/page/{{ $i }}" class="last" title="{{ $countpage }}">{{ $countpage }}</a><a href="#"><i class="fa fa-arrow-right"></i></a><span class="pages">Page {{ $curent_page }} of {{ $countpage }}</span><div class="clearfix"></div>
+						@else
+							<a class="page" title="{{ $i }}" href="{{ url('/') }}/{{ $curent_slug }}/page/{{ $i }}">{{ $i }}</a>
+						@endif
+					@endfor
+					
+				</div>
+				@endif
+				{{-- <div class="page-nav td-pb-padding-side">
+					<span class="current">1</span><a href="#" class="page" title="2">2</a><a href="#" class="page" title="3">3</a><span class="extend">...</span><a href="#" class="last" title="9">9</a><a href="#"><i class="td-icon-menu-right"></i></a><span class="pages">Page 1 of 9</span>
+					<div class="clearfix"></div>
+				</div> --}}
+			@endif
+             
+              
+          </div>
+          <div class="col-lg-4 pl-50  md-pl-15 md-mt-60">
+     			 @include('teamilk.canabia-sidebar')
+          </div>
+       </div>
+   </div>
+</div>
+<!--Blog End-->

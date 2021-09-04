@@ -1,0 +1,223 @@
+28/06/2021 22:47:08: 
+28/06/2021 22:47:08: 
+28/06/2021 22:47:08: commeotcon
+28/06/2021 22:47:20: Array
+(
+    [uniqueid] => 1624934839.1311063
+    [linkedid] => 1624934839.1311054
+    [callid] => 1624934839.1311054
+    [channel] => SIP/567-00121750
+    [extend] => 567
+    [state] => Ring
+    [phone] => 889766364
+    [type] => inbound
+    [note] => callee
+)
+
+28/06/2021 22:47:20: 
+28/06/2021 22:47:20: commeotcon
+28/06/2021 22:47:23: Array
+(
+    [uniqueid] => 1624934839.1311063
+    [linkedid] => 1624934839.1311054
+    [callid] => 1624934839.1311054
+    [channel] => SIP/567-00121750
+    [extend] => 567
+    [state] => Hangup
+    [phone] => 889766364
+    [type] => inbound
+    [note] => 
+)
+
+28/06/2021 22:47:23: 
+28/06/2021 22:47:23: commeotcon
+28/06/2021 22:47:24: Array
+(
+    [uniqueid] => 1624934839.1311062
+    [linkedid] => 1624934839.1311054
+    [callid] => 1624934839.1311054
+    [channel] => Local/567@from-queue-0000f502;2
+    [extend] => 567
+    [state] => Cdr
+    [phone] => 0931536528
+    [type] => inbound
+    [note] => 
+    [cdr] => Array
+        (
+            [source] => 889766364
+            [destination] => 2300
+            [starttime] => 2021-06-29 09:47:19
+            [answertime] => 2021-06-29 09:47:19
+            [endtime] => 2021-06-29 09:47:23
+            [duration] => 4
+            [billsec] => 4
+            [disposition] => NO ANSWER
+        )
+
+)
+
+28/06/2021 22:47:24: 
+28/06/2021 22:47:24: commeotcon
+28/06/2021 22:48:16: Array
+(
+    [uniqueid] => 1624934896.1311080
+    [linkedid] => 1624934896.1311080
+    [callid] => 1624934896.1311080
+    [channel] => SIP/562-00121761
+    [extend] => 562
+    [state] => Ring
+    [phone] => 0967735106
+    [type] => outbound
+    [note] => callee
+)
+
+28/06/2021 22:48:16: 
+28/06/2021 22:48:16: commeotcon
+28/06/2021 22:48:33: Array
+(
+    [uniqueid] => 1624934896.1311080
+    [linkedid] => 1624934896.1311080
+    [callid] => 1624934896.1311080
+    [channel] => SIP/562-00121761
+    [extend] => 562
+    [state] => Up
+    [phone] => 0967735106
+    [type] => outbound
+    [note] => callee
+)
+
+28/06/2021 22:48:33: 
+28/06/2021 22:48:33: commeotcon
+28/06/2021 22:48:36: Array
+(
+    [uniqueid] => 1624934896.1311080
+    [linkedid] => 1624934896.1311080
+    [callid] => 1624934896.1311080
+    [channel] => SIP/562-00121761
+    [extend] => 562
+    [state] => Hangup
+    [phone] => 0967735106
+    [type] => outbound
+    [note] => 
+)
+
+28/06/2021 22:48:36: 
+28/06/2021 22:48:36: commeotcon
+28/06/2021 22:48:36: Array
+(
+    [uniqueid] => 1624934896.1311080
+    [linkedid] => 1624934896.1311080
+    [callid] => 1624934896.1311080
+    [channel] => SIP/562-00121761
+    [extend] => 562
+    [state] => Cdr
+    [phone] => 0967735106
+    [type] => outbound
+    [note] => 
+    [cdr] => Array
+        (
+            [source] => 0931536528
+            [destination] => 0967735106
+            [starttime] => 2021-06-29 09:48:16
+            [answertime] => 2021-06-29 09:48:33
+            [endtime] => 2021-06-29 09:48:36
+            [duration] => 19
+            [billsec] => 3
+            [disposition] => ANSWERED
+        )
+
+)
+
+28/06/2021 22:48:36: 
+28/06/2021 22:48:36: commeotcon
+28/06/2021 22:49:21: Array
+(
+    [uniqueid] => 1624934961.1311110
+    [linkedid] => 1624934961.1311105
+    [callid] => 1624934961.1311105
+    [channel] => SIP/562-0012177b
+    [extend] => 562
+    [state] => Ring
+    [phone] => 889766364
+    [type] => inbound
+    [note] => callee
+)
+
+28/06/2021 22:49:25: Array
+(
+    [uniqueid] => 1624934961.1311110
+    [linkedid] => 1624934961.1311105
+    [callid] => 1624934961.1311105
+    [channel] => SIP/562-0012177b
+    [extend] => 562
+    [state] => Hangup
+    [phone] => 889766364
+    [type] => inbound
+    [note] => 
+)
+
+28/06/2021 22:49:25: Array
+(
+    [uniqueid] => 1624934961.1311109
+    [linkedid] => 1624934961.1311105
+    [callid] => 1624934961.1311105
+    [channel] => Local/562@from-queue-0000f504;2
+    [extend] => 562
+    [state] => Cdr
+    [phone] => 0931536528
+    [type] => inbound
+    [note] => 
+    [cdr] => Array
+        (
+            [source] => 889766364
+            [destination] => 562
+            [starttime] => 2021-06-29 09:49:21
+            [answertime] => 
+            [endtime] => 2021-06-29 09:49:25
+            [duration] => 3
+            [billsec] => 0
+            [disposition] => NO ANSWER
+        )
+
+)
+
+28/06/2021 22:50:09: Array
+(
+    [uniqueid] => 1624935009.1311121
+    [linkedid] => 1624935009.1311121
+    [callid] => 1624935009.1311121
+    [channel] => SIP/562-00121786
+    [extend] => 562
+    [state] => Ring
+    [phone] => 889766364
+    [type] => outbound
+    [note] => callee
+)
+
+28/06/2021 22:50:17: Array
+(
+    [uniqueid] => 1624935009.1311121
+    [linkedid] => 1624935009.1311121
+    [callid] => 1624935009.1311121
+    [channel] => SIP/562-00121786
+    [extend] => 562
+    [state] => Hangup
+    [phone] => 889766364
+    [type] => outbound
+    [note] => 
+)
+
+28/06/2021 22:51:35: Array
+(
+    [uniqueid] => 1624935095.1311140
+    [linkedid] => 1624935095.1311140
+    [callid] => 1624935095.1311140
+    [channel] => SIP/562-00121799
+    [extend] => 562
+    [state] => Ring
+    [phone] => 0967655819
+    [type] => outbound
+    [note] => callee
+)
+
+28/06/2021 22:59:57: 

@@ -1,0 +1,948 @@
+Uri: http://html.modernwebtemplates.com/canabia/
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\index.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/css/bootstrap.min.css
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://html.modernwebtemplates.com/canabia/css/animations.css
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\css\animations.css
+Content Type: text/css
+
+Uri: http://html.modernwebtemplates.com/canabia/css/fonts.css
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\css\fonts.css
+Content Type: text/css
+
+Uri: http://html.modernwebtemplates.com/canabia/css/main.css
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\css\main.css
+Content Type: text/css
+
+Uri: http://html.modernwebtemplates.com/canabia/css/shop.css
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\css\shop.css
+Content Type: text/css
+
+Uri: http://html.modernwebtemplates.com/canabia/index.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\index-1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/index-static.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\index-static.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/index-single.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\index-single.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/about.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\about.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_teasers.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_teasers.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_typography.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_typography.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_buttons.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_buttons.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_progress.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_progress.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_tabs.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_tabs.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_bootstrap.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_bootstrap.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_widgets.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_widgets.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_animation.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_animation.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_icons.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_icons.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shortcodes_socialicons.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shortcodes_socialicons.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/team.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\team.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/team-single.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\team-single.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-regular.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-regular.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-regular-2-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-regular-2-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-regular-3-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-regular-3-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-fullwidth.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-fullwidth.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-fullwidth-3-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-fullwidth-3-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-fullwidth-4-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-fullwidth-4-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-extended.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-extended.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-extended-2-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-extended-2-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-extended-3-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-extended-3-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-carousel.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-carousel.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-carousel-2-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-carousel-2-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-carousel-3-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-carousel-3-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-tile.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-tile.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-left-2-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-left-2-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-right.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-right.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-right-2-cols.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-right-2-cols.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-single.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-single.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-single2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-single2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/gallery-single3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\gallery-single3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/timetable.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\timetable.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/events-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\events-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/events-right.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\events-right.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/events-full.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\events-full.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/event-single-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\event-single-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/event-single-right.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\event-single-right.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/event-single-full.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\event-single-full.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/comingsoon1.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\comingsoon1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/comingsoon2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\comingsoon2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/faq.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\faq.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/faq2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\faq2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/404.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\404.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/4042.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\4042.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/technologies.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\technologies.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/technology-single.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\technology-single.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header1.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header4.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header4.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header5.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header5.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header6.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header6.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side1.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side4.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side4.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side5.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side5.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side6.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side6.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side7.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side7.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side8.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side8.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side_superfish.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side_superfish.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/header_side_sticked.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\header_side_sticked.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/breadcrumbs1.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\breadcrumbs1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/breadcrumbs2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\breadcrumbs2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/breadcrumbs3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\breadcrumbs3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/breadcrumbs4.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\breadcrumbs4.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/breadcrumbs5.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\breadcrumbs5.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/breadcrumbs6.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\breadcrumbs6.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/footer1.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\footer1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/footer2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\footer2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/footer3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\footer3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/footer4.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\footer4.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/footer5.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\footer5.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/footer6.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\footer6.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/copyright1.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\copyright1.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/copyright2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\copyright2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/copyright3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\copyright3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/copyright4.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\copyright4.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/copyright5.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\copyright5.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-right.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-right.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-full.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-full.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-mosaic.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-mosaic.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-single-right.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-single-right.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-single-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-single-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-single-full.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-single-full.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-single-video-right.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-single-video-right.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-single-video-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-single-video-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/blog-single-video-full.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\blog-single-video-full.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shop-left.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shop-left.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shop-product.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shop-product.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shop-cart.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shop-cart.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shop-checkout.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shop-checkout.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/shop-register.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\shop-register.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/contact.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\contact.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/contact2.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\contact2.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/contact3.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\contact3.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/contact4.html
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\contact4.html
+Content Type: text/html
+
+Uri: http://html.modernwebtemplates.com/canabia/js/vendor/modernizr-2.6.2.min.js
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\js\vendor\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: http://html.modernwebtemplates.com/canabia/images/logo.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\logo.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/slide01.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\slide01.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/slide02.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\slide02.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/slide03.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\slide03.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/01.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\01.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/shop/01.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\shop\01.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/shop/02.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\shop\02.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/shop/03.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\shop\03.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/shop/04.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\shop\04.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/bbb.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\bbb.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/icons/01.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\icons\01.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/icons/02.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\icons\02.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/icons/03.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\icons\03.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/icons/04.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\icons\04.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/icons/05.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\icons\05.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/icons/06.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\icons\06.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/08.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\08.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/03.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\03.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/10.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\10.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/04.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\04.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/06.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\06.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/11.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\11.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/02.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\02.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/03.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\03.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/04.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\04.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/05.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\05.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/06.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\06.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/07.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\07.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/map_marker_icon.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\map_marker_icon.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/recent_post1.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\recent_post1.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/recent_post2.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\recent_post2.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/banner.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\banner.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/js/compressed.js
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\js\compressed.js
+Content Type: application/javascript
+
+Uri: http://html.modernwebtemplates.com/canabia/js/main.js
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\js\main.js
+Content Type: application/javascript
+
+Uri: http://html.modernwebtemplates.com/canabia/js/switcher.js
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\js\switcher.js
+Content Type: application/javascript
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/rt-icons-2.eot?wz19bt
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\rt-icons-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/rt-icons-2.ttf?wz19bt
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\rt-icons-2.ttf
+Content Type: font/ttf
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/rt-icons-2.woff?wz19bt
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\rt-icons-2.woff
+Content Type: font/woff
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/rt-icons-2.svg?wz19bt
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\rt-icons-2.svg
+Content Type: image/svg+xml
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/socicon.eot?xvgs9q
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/socicon.woff2?xvgs9q
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\socicon.woff2
+Content Type: font/woff2
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/socicon.ttf?xvgs9q
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\socicon.ttf
+Content Type: font/ttf
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/socicon.woff?xvgs9q
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\socicon.woff
+Content Type: font/woff
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/socicon.svg?xvgs9q
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:300,400,400i,600,600i,700
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\css.css
+Content Type: text/css
+
+Uri: http://html.modernwebtemplates.com/canabia/img/owl.video.play.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\owl.video.play.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: http://html.modernwebtemplates.com/canabia/img/background_section.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\background_section.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/preloader.gif
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\preloader.gif
+Content Type: image/gif
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern1.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern1.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern2.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern2.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern3.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern3.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern4.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern4.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern5.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern5.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern6.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern6.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern7.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern7.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern8.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern8.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern9.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern9.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern10.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern10.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/pattern11.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\pattern11.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/progress.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\progress.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/subscribe.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\subscribe.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/404.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\404.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/blog.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\blog.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/top.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\top.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/bottom.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\bottom.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/parallax/map.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\parallax\map.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/01.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/02.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/03.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/01.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/02.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/03.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/banner.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/05.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\05.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/07.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\07.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/04.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/05.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\05.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/06.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\06.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/07.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\07.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/team/08.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\team\08.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/04.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/06.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\06.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/08.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\08.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/09.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\09.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/10.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\10.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/11.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\11.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/12.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\12.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/img/loading.png
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\img\loading.png
+Content Type: image/png
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/18.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\18.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/15.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\15.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/17.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\17.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/16.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\16.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/recent_post3.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\recent_post3.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/13.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\13.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/12.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\12.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/14.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\14.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/01.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\01.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/02.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\02.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/05.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\05.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/07.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\07.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/events/09.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\events\09.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/gallery/13.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\gallery\13.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/08.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\08.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/09.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\09.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/10.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\10.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/faces/11.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\faces\11.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/side-image.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\side-image.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/images/post_author.jpg
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\images\post_author.jpg
+Content Type: image/jpeg
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/rt-icons-2.eot
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\rt-icons-2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://html.modernwebtemplates.com/canabia/fonts/fontawesome-webfont.eot
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\canabia\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fonts.gstatic.com/s/raleway/v19/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\s\raleway\v19\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v19/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\s\raleway\v19\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v19/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\s\raleway\v19\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v19/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\s\raleway\v19\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v19/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\s\raleway\v19\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v19/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\YEN\Documents\tick\html.modernwebtemplates.com\s\raleway\v19\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+

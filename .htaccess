@@ -1,0 +1,36 @@
+<IfModule mod_rewrite.c>
+  <IfModule mod_negotiation.c>
+    Options -MultiViews -Indexes
+  </IfModule>
+
+  RewriteEngine On
+  
+   # -----------------------------------------------------------------------------------------------
+  # If you only want to allow HTTPS, uncomment the RewriteCond and RewriteRule lines below.
+  # -----------------------------------------------------------------------------------------------
+  # RewriteCond %{HTTPS} off
+  # RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L]
+
+  # -----------------------------------------------------------------------------------------------
+  # If you only want to allow HTTP
+  # -----------------------------------------------------------------------------------------------
+  #RewriteCond %{HTTPS} on
+  #RewriteRule (.*) http://%{HTTP_HOST}%{REQUEST_URI} [L]
+  
+  RewriteCond %{SERVER_PORT} 80
+  RewriteRule ^(.*)$ https://thucphamsachban.com/$1 [R,L]
+  
+  # Handle Authorization Header
+  RewriteCond %{HTTP:Authorization} ^(.+)$
+  RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+  # Redirect Trailing Slashes If Not A Folder...
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_URI} (.+)/$
+  RewriteRule ^ %1 [L,R=301]
+
+  # Handle Front Controller...
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^ index.php [L]
+</IfModule>

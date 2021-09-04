@@ -1,0 +1,74 @@
+.td-social-style10 .td_social_type .td-social-box {
+    background-color: transparent;
+    height: auto !important;
+}
+.td-sp {
+    background-image: url(../images/sprite/elements-ok.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+.td-post-template-12 .td-post-header .entry-title, .td-post-template-13 .td-post-header .entry-title {
+    font-size: 42px;
+    line-height: 48px;
+    font-weight: 600;
+    padding: 10px 0%;
+    letter-spacing: .02em;
+}
+.top-main-content {
+    position: relative;
+    margin: 0;
+    padding-top: 50px; 
+}
+.td_block_trending_now {
+    padding: 0 0px;
+}
+/*.td-icon-zalo:before{
+    content: url(../icons/icon-zalo.png);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.td-icon-group:before{
+    content: url(../icons/icon-group.png);
+    position: relative;
+    top: 0px;
+    left: 0px;
+}*/
+.td-icon-zalo:before{
+    background-image: url('../icons/icon-zalo.png');
+    background-size: auto 100%;
+    display: inline-block;
+    width: 10px; 
+    height: 10px;
+    content:"";
+}
+.td-icon-group:before{
+    background-image: url('../icons/icon-group.png');
+    background-size: auto 100%;
+    display: inline-block;
+    width: 12px; 
+    height: 12px;
+    content:"";
+}
+body {
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    background:rgba(255,255,255);
+}
+.td_module_8 .entry-title {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 7px;
+    font-weight: 500;
+}
+.td-blog-health .td_module_17 .td-excerpt {
+    font-size: 16px;
+    line-height: 22px;
+}
+.td_module_6 .entry-title {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 4px;
+    font-weight: 500;
+}

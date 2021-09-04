@@ -1,0 +1,95 @@
+span.vnd:after {
+    content: "\20AB";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: 300;
+    text-decoration: inherit;
+    font-size: 13px;
+    padding-right: 0.0em;
+    margin-right: 0.6em;
+    position: relative;
+    top: -3px;
+    right: -3px;
+}
+ul.cart-list-topping {
+    list-style: none;
+    padding: 0px;
+}
+.cart-list-topping li:before {
+    content: "\f067";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: 300;
+    text-decoration: inherit;
+    color: #5c6873;
+    font-size: 13px;
+    padding-right: 0.1em;
+    position: relative;
+    top: 0px;
+    left: 0;
+}
+#sidebar-menu .depth-1 {
+    margin-left: 0px;
+}
+#sidebar-menu .depth-2 {
+    margin-left: 0px;
+}
+#datatable-responsive table{
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+#datatable-responsive th,
+#datatable-responsive td {
+    white-space: nowrap;
+    width: 160px !important;
+}
+#datatable-responsive td.interactive {
+    text-align: center;
+}
+#datatable-responsive td.interactive .fa {
+    font-size: 20px;
+} 
+.tdbreak {
+  word-wrap: break-word;
+}
+.interactive ul.icon {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.interactive ul.icon li {
+    float: left;
+    display: inline-block;
+}
+.interactive ul.icon li .btn-icon {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .2rem .2rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.interactive ul.icon li .btn-icon:hover{
+	/*background:#007BFF;*/
+	color:#007BFF;
+}
+.select_dynamic_tag ul.list-check{
+    list-style: none;
+}
+.tagclound ul.list-check {
+    list-style: none;
+}
+.tagsinput span > span {
+    color: #fff;
+}

@@ -1,0 +1,128 @@
+#invoice-POS {
+  box-shadow: 0 0 1in -0.25in rgba(0, 0, 0, 0.5);
+  padding: 0.5mm;
+  margin: 0 auto;
+  width: 80mm;
+  background: #fff;
+}
+  ::selection {
+    background: #f31544;
+    color: #fff;
+  }
+  ::moz-selection {
+    background: #f31544;
+    color: #fff;
+  }
+  #invoice-POS h1 {
+    font-size: 1.5em !important;
+    color: #222;
+  }
+  #invoice-POS .Hours h2,
+  #invoice-POS .Rate h2,
+  #invoice-POS .payment h2,
+  #invoice-POS .item h2 {
+   font-size: 0.7em !important;
+    color: #666;
+    line-height: 1.2em;
+  }
+  #invoice-POS h3 {
+    font-size: 1.2em !important;
+    font-weight: 300;
+    line-height: 2em;
+  }
+  #invoice-POS p.itemtext {
+    font-size: 0.7em !important;
+    color: #666;
+    line-height: 1.2em;
+  }
+
+  #top {
+    min-height: 100px;
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+  }
+  #mid {
+    min-height: 80px;
+  }
+ 
+  #bot {
+    min-height: 50px;
+  }
+
+   #top .logo img{
+     max-width:200px;
+	 height:auto;
+	 margin-left:auto;
+	 margin-right:auto;
+  }
+  #top .logo {
+	  width:100%;
+	  text-align:center;
+	  padding:10px;
+  }
+  #top .address{
+	  width:100%;
+	  text-align:left;
+	  margin-bottom:15px;
+  }
+  
+   #invoice-POS .info {
+    display: block;
+    //float:left;
+    margin-left: 0;
+  }
+   #invoice-POS .title {
+    float: right;
+  }
+   #invoice-POS .title p {
+    text-align: right;
+  }
+   #invoice-POS .info h2 {
+	  text-transform:uppercase;
+	  font-size:0.7em;
+	  font-weight:400;
+  }
+  #table {
+	  width:100%;
+	  height:auto;
+	  margin:0px auto;
+  }
+  #table table {
+    width: 100%;
+    border-collapse: collapse;
+	margin-right:auto;
+	margin-left:auto;
+  }
+  #table td {
+    padding: 5px 0 5px 15px;
+  }
+   #invoice-POS .tabletitle {
+    font-size: 0.5em;
+    background: #eee;
+  }
+  
+   #invoice-POS .item {
+		width: 100%;
+	}
+   #invoice-POS .itemtext {
+    font-size: 0.5em;
+  }
+
+  #legalcopy {
+    margin-top: 5mm;
+	text-align:center;
+  }
+#service {
+    border-top: 1px solid #ddd;
+  }
+@media print {
+ #service {
+    border-bottom: 1px solid #ddd;
+  }
+  .print {
+    display: block;
+  }
+}
+
+
